@@ -1,0 +1,4 @@
+! wget https://raw.githubusercontent.com/iranman74/rdph/main/RDP.sh &> /dev/null
+! chmod +x RDP.sh
+! ./RDP.sh
+! git clone --recursive https://github.com/Alireza-Akhavan/class.vision.git
