@@ -1,0 +1,88 @@
+flatpak install flathub com.skype.Client
+
+flatpak install flathub org.freedownloadmanager.Manager
+
+flatpak install flathub org.jdownloader.JDownloader
+
+flatpak install flathub com.belmoussaoui.Authenticator
+
+flatpak install flathub com.milesalan.mepo
+
+flatpak install flathub com.discordapp.Discord
+
+
+image viewer
+
+flatpak install flathub com.github.aharotias2.parapara
+
+iso
+flatpak install flathub com.poweriso.PowerISO
+
+music player
+
+flatpak install flathub io.bassi.Amberol
+
+radio
+flatpak install flathub de.haeckerfelix.Shortwave
+
+image edit
+
+flatpak install flathub com.endlessm.photos
+
+
+flatpak install flathub org.gnome.Shotwell
+
+
+converter
+flatpak install flathub com.github.robertsanseries.ciano
+
+pdf edit
+flatpak install flathub net.codeindustry.MasterPDFEditor
+
+================================
+
+ sudo apt insall xpdf
+ 
+ sudo apt-get install geany
+
+sudo apt install magnus
+
+sudo apt install deepin-image-viewer
+
+sudo apt install gnome-tweaks
+
+sudo apt install hardinfo
+
+sudo apt install psensor
+
+sudo apt install sweeper
+
+sudo apt install gthumb
+
+sudo apt install audacious
+
+sudo apt install brasero
+
+sudo apt install gimp gimp-data gimp-plugin-registry gimp-data-extras
+
+sudo apt-get install gnome-power-manager
+
+
+sudo apt install powertop
+
+sudo powertop –calibrate
+
+sudo snap install gnome-system-monitor
+
+sudo apt install guvcview
+
+sudo apt install kamoso
+
+sudo apt install cheese
+
+sudo apt install partitionmanager
+
+sudo apt install gparted
+
+sudo apt install pm-utils
+
