@@ -1,68 +1,60 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2708
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+https://free.iam7.tk/
 
-\f0\b\fs24 \cf0 https://free.iam7.tk/\
-\
-https://proxy.yugogo.xyz/\
-\
-https://clash.myvm.cc/\
-\
-https://pc.adlionvm.tk\
-\
-https://proxy.yiun.xyz/\
-\
-https://klausvpn.posyao.com\
-\
-\
-\uc0\u1576  \u1740 \u1705 \u1740  \u1575 \u1586  \u1604 \u1740 \u1606 \u1705 \u1607 \u1575 \u1740  \u1586 \u1740 \u1585  \u1576 \u1585 \u1740 \u1583  \u1580 \u1607 \u1578  \u1583 \u1585 \u1740 \u1575 \u1601 \u1578  \u1587 \u1585 \u1608 \u1585  \u1588 \u1575 \u1583 \u1608 \u1587 \u1575 \u1705 \u1587  \u1585 \u1575 \u1740 \u1711 \u1575 \u1606 \
-https://proxies.haisto.cn/\
-https://free.iam7.tk/\
-https://proxy.yugogo.xyz/\
-https://free.jingfu.cf/\
-https://proxy.yiun.xyz/\
-https://clash.myvm.cc/\
-\
-\
-https://sub.pmsub.me/base64\
-\
-https://sub.pmsub.me/clash.yaml\
-\
-https://raw.githubusercontent.com/tbbatbb/Proxy/master/dist/clash.config.yaml\
-\
-https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/free\
-\
-\uc0\u1670 \u1607 \u1575 \u1585  \u1605 \u1606 \u1576 \u1593  \u1583 \u1740 \u1711 \u1607 \
-\
-https://github.com/Pawdroid/Free-servers\
-\
-https://github.com/freefq/free\
-\
-https://github.com/mianfeifq/share\
-\
-https://github.com/aiboboxx/v2rayfree\
-\
-nodefree.org\uc0\u8206 \
-\
-clashnode.com\uc0\u8206 \
-\
-https://github.com/WilliamStar007/ClashX-V2Ray-TopFreeProxy\
-\
-https://www.freevmess.com/german-v2ray-server\
-\
-\uc0\u1605 \u1606 \u1575 \u1576 \u1593  \u1705 \u1604 \u1588 \
-NodeFree: https://nodefree.org/dy/2023/02/20230226.yaml \uc0\u9733 \
-ClashNode: https://clashnode.com/wp-content/uploads/2023/02/20230226.yaml \uc0\u9733 \
-Mfuu: https://raw.githubusercontent.com/mfuu/v2ray/master/clash.yaml\
-Anaer: https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml \uc0\u9733 \
-Pojiezhiyuanjun: https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0226clash.yml\
-Oslook: https://raw.githubusercontent.com/oslook/clash-freenode/main/clash.yaml\
-Ermaozi: https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml \uc0\u9733 \
-Learnhard-cn: https://cdn.jsdelivr.net/gh/learnhard-cn/free_proxy_ss@main/clash/clash.provider.yaml\
-Vveg26: https://raw.githubusercontent.com/vveg26/get_proxy/main/dist/clash.config.yaml\
-Xrayfree: https://tt.vg/freeclash\
-Kxswa: https://kxswa.tk/clash\
-}
+https://proxy.yugogo.xyz/
+
+https://clash.myvm.cc/
+
+https://pc.adlionvm.tk
+
+https://proxy.yiun.xyz/
+
+https://klausvpn.posyao.com
+
+
+ب یکی از لینکهای زیر برید جهت دریافت سرور شادوساکس رایگان
+https://proxies.haisto.cn/
+https://free.iam7.tk/
+https://proxy.yugogo.xyz/
+https://free.jingfu.cf/
+https://proxy.yiun.xyz/
+https://clash.myvm.cc/
+
+
+https://sub.pmsub.me/base64
+
+https://sub.pmsub.me/clash.yaml
+
+https://raw.githubusercontent.com/tbbatbb/Proxy/master/dist/clash.config.yaml
+
+https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/free
+
+چهار منبع دیگه
+
+https://github.com/Pawdroid/Free-servers
+
+https://github.com/freefq/free
+
+https://github.com/mianfeifq/share
+
+https://github.com/aiboboxx/v2rayfree
+
+nodefree.org‎
+
+clashnode.com‎
+
+https://github.com/WilliamStar007/ClashX-V2Ray-TopFreeProxy
+
+https://www.freevmess.com/german-v2ray-server
+
+منابع کلش
+NodeFree: https://nodefree.org/dy/2023/02/20230226.yaml ★
+ClashNode: https://clashnode.com/wp-content/uploads/2023/02/20230226.yaml ★
+Mfuu: https://raw.githubusercontent.com/mfuu/v2ray/master/clash.yaml
+Anaer: https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml ★
+Pojiezhiyuanjun: https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0226clash.yml
+Oslook: https://raw.githubusercontent.com/oslook/clash-freenode/main/clash.yaml
+Ermaozi: https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml ★
+Learnhard-cn: https://cdn.jsdelivr.net/gh/learnhard-cn/free_proxy_ss@main/clash/clash.provider.yaml
+Vveg26: https://raw.githubusercontent.com/vveg26/get_proxy/main/dist/clash.config.yaml
+Xrayfree: https://tt.vg/freeclash
+Kxswa: https://kxswa.tk/clash
