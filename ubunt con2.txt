@@ -1,5 +1,6 @@
 ﻿lshw
-for mac :  tar -zcvf ar.tar folder
+for mac :  tar -zcvf nekoray.tar ./folder
+for ubuntu : tar -czvf nekoray.tar ./nekoray
 apt list | grep isomaster
 
 sudo apt install engrampa
