@@ -1,6 +1,14 @@
 ﻿lshw
 for mac :  tar -zcvf nekoray.tar ./folder
+
+ hdiutil makehybrid -iso -joliet -o shing.iso shing.dmg
+ 
+ ----
+
+mkisofs -o 123.iso ./
+
 for ubuntu : tar -czvf nekoray.tar ./nekoray
+
 apt list | grep isomaster
 
 sudo apt install engrampa
