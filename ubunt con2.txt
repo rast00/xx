@@ -1,5 +1,5 @@
 ﻿lshw
-for mac :  tar -zcvf nekoray.tar ./folder
+for mac :  tar -czf nekoray.tar ./folder
 
  hdiutil makehybrid -iso -joliet -o shing.iso shing.dmg
  
@@ -7,7 +7,7 @@ for mac :  tar -zcvf nekoray.tar ./folder
 
 mkisofs -o 123.iso ./
 
-for ubuntu : tar -czvf nekoray.tar ./nekoray
+for ubuntu : tar -czf nekoray.tar ./nekoray
 
 apt list | grep isomaster
 
