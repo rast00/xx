@@ -1,4 +1,9 @@
 ﻿lshw
+ 
+ ffmpeg -i input.mp4 -vcodec libx265 -crf 28 output.mp4
+ 
+ 
+ 
 for mac :  tar -czf nekoray.tar ./folder
 
  hdiutil makehybrid -iso -joliet -o shing.iso shing.dmg
