@@ -40,6 +40,7 @@ pdf edit
 flatpak install flathub net.codeindustry.MasterPDFEditor
 
 ================================
+sudo apt install engrampa
 
  sudo apt insall xpdf
  
