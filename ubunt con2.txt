@@ -1,7 +1,7 @@
 ﻿lshw
  
  ffmpeg -i input.mp4 -vcodec libx265 -crf 28 output.mp4
- 
+ ffmpeg -i input.mp4 output.mp3
  
  
 for mac :  tar -czf nekoray.tar ./folder
@@ -15,6 +15,9 @@ mkisofs -o 123.iso ./
 for ubuntu : tar -czf nekoray.tar ./nekoray
 
 apt list | grep isomaster
+--
+img2pdf *.jpg -o test.pdf
+--
 
 sudo apt install engrampa
 
