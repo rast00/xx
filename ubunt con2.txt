@@ -3,6 +3,8 @@
  ps2pdf -dPDFSETTINGS=/ebook -dCompatibilityLevel=1.5 ESKENAS2015.pdf output.pdf
 --
 apt-cache search pdf viewer
+
+apt search ^ iso
 --
  ffmpeg -i input.mp4 -vcodec libx265 -crf 28 output.mp4
  ffmpeg -i input.mp4 output.mp3
