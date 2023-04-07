@@ -24,7 +24,14 @@ for ubuntu : tar -czf nekoray.tar ./nekoray
 
 --
 img2pdf *.jpg -o test.pdf
+pdf2djvu dpi=330 -o paraha.djvu IMG_9270.pdf
 --
+sudo apt install nautilus-image-converter
+sudo apt-get install converseen
+ sudo apt install imagemagick
+
+sudo apt install gscan2pdf
+
 
 sudo apt install engrampa
 
@@ -126,10 +133,12 @@ sudo apt-get install --fix-broken && sudo apt-get autoremove && sudo apt-get upd
 برای حذف بسته های دانلود شده
 
 sudo apt autoclean
-
-sudo apt list --installed
-
-
+--
+apt list --installed
+ dpkg -l 
+---
+dpkg -L
+location app
 -----
 
 sudo kill -5 -1
