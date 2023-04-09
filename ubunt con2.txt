@@ -71,16 +71,11 @@ sudo apt install uget
 
 sudo apt install unace unrar zip unzip p7zip-full p7zip-rar sharutils rar uudeview mpack arj cabextract file-roller
 
-
-
- && sudo pm-hibernate
-sudo nano /var/lib/polkit-1/localauthority/10-vendor.d/com.ubuntu.desktop.pkla
-با دستور فوق فایلی داخل ترمینال باز خواهد شد. به سمت پایین اسکرول کنید و دنبال دو قسمت با نام های“[Disable hibernate by default in upower]”“[Disable hibernate by default in logind]” بگردید.
-هر دو قسمتی که بالا اسمش رو آوردم دارای مقداری به نامResultActiveهستند، که د yes شوند. سپسCtrl+X را بزنید و بعدشEnter و تمام.
-
  لیست کردن بسته های نصب شده
-sudo apt list --installed
 
+--
+apt list --installed
+ dpkg -l 
 snap list
 
 sudo snap remove app
@@ -91,25 +86,6 @@ sudo aptitude purge roxfiler
 sudo apt autoclean program
 sudo apt --purge remove program
 
-------
-
-$ sudo apt-get install cups
-
-$ sudo /etc/init.d/cups start
-
-$ sudo /etc/init.d/cups restart
-
-$ sudo /etc/init.d/cups status
-
-$ sudo /etc/init.d/cups stop
-در صورتی هم که بخواهیم نرم‌افزار در حین بوت شدن سیستم استارت شو
-
-
-
-$ sudo update-rc.d cups enable
-
-
-$ sudo update-rc.d cups disable
 
 -------
 
@@ -128,14 +104,10 @@ sudo apt install -f
 sudo apt-get install --fix-broken && sudo apt-get autoremove && sudo apt-get update
 
 
-
-
 برای حذف بسته های دانلود شده
 
 sudo apt autoclean
---
-apt list --installed
- dpkg -l 
+
 ---
 dpkg -L
 location app
