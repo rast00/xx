@@ -20,7 +20,10 @@ for mac :  tar -czf nekoray.tar ./folder
 
 mkisofs -o 123.iso ./
 
-for ubuntu : tar -czf nekoray.tar ./nekoray
+for ubuntu :
+tar -czf nekoray.tar ./folder
+tar --create --file=archive.tar ./folder
+tar -cf archive.tar ./folder
 
 --
 img2pdf *.jpg -o test.pdf
