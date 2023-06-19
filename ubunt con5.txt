@@ -1,0 +1,174 @@
+lshw
+ --
+ ps2pdf -dPDFSETTINGS=/ebook -dCompatibilityLevel=1.5 ESKENAS2015.pdf output.pdf
+--
+apt-cache search pdf viewer
+
+apt search ^ iso
+
+apt list | grep isomaster
+--
+ ffmpeg -i input.mp4 -vcodec libx265 -crf 28 output.mp4
+ ffmpeg -i input.mp4 output.mp3
+ --
+ 
+for mac :  tar -czf nekoray.tar ./folder
+
+ hdiutil makehybrid -iso -joliet -o shing.iso shing.dmg
+ 
+ ----
+
+mkisofs -o 123.iso ./
+
+for ubuntu :
+tar -czf nekoray.tar ./folder
+tar --create --file=archive.tar ./folder
+tar -cf archive.tar ./folder
+
+--
+img2pdf *.jpg -o test.pdf
+pdf2djvu dpi=330 -o paraha.djvu IMG_9270.pdf
+--
+sudo apt install nautilus-image-converter
+sudo apt-get install converseen
+ sudo apt install imagemagick
+
+sudo apt install gscan2pdf
+
+
+sudo apt install engrampa
+
+sudo apt-get install indicator-applet-complete
+
+echo -n "rastgoo" | sha256sum
+
+sudo dpkg-repack vlc 
+ 
+sudo nano /etc/proxychains4.conf
+
+
+nautilus
+
+conky -c ./themsrc
+
+sudo apt-get install network-manager-sstp  sstp-client
+
+sudo apt install stacer
+
+systemd-analyze
+
+
+delete folder 
+sudo rm -r folder name
+
+
+add repo
+sudo add-apt-repository ppa:adress
+
+نصب فونت مایکرو سافت
+sudo apt-get install ttf-mscorefonts-installer
+
+sudo fc-cache -f -v
+
+sudo apt install uget
+
+sudo apt install unace unrar zip unzip p7zip-full p7zip-rar sharutils rar uudeview mpack arj cabextract file-roller
+
+ لیست کردن بسته های نصب شده
+
+--
+apt list --installed
+ dpkg -l 
+snap list
+
+sudo snap remove app
+
+sudo dpkg --purge rox
+
+sudo aptitude purge roxfiler
+sudo apt autoclean program
+sudo apt --purge remove program
+
+
+-------
+
+
+sudo killall apt apt-get
+
+برای مجدد کانفیگ کردن پکیج ها
+
+sudo rm /var/lib/apt/lists/lock
+sudo rm /var/cache/apt/archives/lock
+sudo rm /var/lib/dpkg/lock
+
+sudo dpkg --configure -a
+sudo apt install -f
+
+sudo apt-get install --fix-broken && sudo apt-get autoremove && sudo apt-get update
+
+
+برای حذف بسته های دانلود شده
+
+sudo apt autoclean
+
+---
+dpkg -L
+location app
+-----
+
+sudo kill -5 -1
+
+xkill
+
+sudo dpkg-reconfigure linux-sound-base
+
+-----
+
+sudo sh VMware-Player.bundle
+----
+FOR MAC
+
+sudo apt install firmware-b43-installer
+
+sudo apt install linux-firmware
+
+-------
+ sudo dpkg-repack vlc 
+ 
+ ./configure
+make
+sudo make install
+
+ rdfind
+ ----
+ for x in *.jpg; do c44 -dpi 333 $x; done
+convert to djvu 
+djvm -c ../result.djvu *.djvu
+convert to one file
+
+mogrify -format webp *
+mogrify -format ppm *.jpg
+mogrify -quality 85 webp *
+
+convert in.jpg -quality 85 out.webp
+
+for x in *.jpg;do cwebp $x -o $x.webp; done
+
+cweb -q 85 in.jpg -o out.webp
+
+genisoimage -o out.iso ./
+
+kahesh hajm pdf
+ps2pdf in.pdf out.pdf
+
+find . -size +100k -and -size -1M
+find . -type f -name "*Store" -delete
+
+find . -size +10M -and -size -20M | xargs -I {} mv {} ./10-20
+
+find . -size +1000M -name "*.mp4" | xargs -I {} mv {} ./1000G
+
+sudo dmidecode
+
+pdftk 40.pdf 50.pdf 60.pdf 70.pdf 80.pdf 90.pdf cat output total.pdf
+
